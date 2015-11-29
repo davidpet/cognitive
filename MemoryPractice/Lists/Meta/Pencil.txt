@@ -1,0 +1,20 @@
+1	Pencil
+2	Sink
+3	Circus
+4	Track
+5	Star
+6	Bullet
+7	Dice
+8	Hourglass
+9	Baseball
+10	Fingers
+11	Goal Post
+12	Eggs
+13	Flag
+14	Necklace
+15	Paycheck
+16	Car
+17	Magazine
+18	Soldier
+19	Golf Club
+20	Shotgun

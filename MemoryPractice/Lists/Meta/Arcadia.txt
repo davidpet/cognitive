@@ -1,0 +1,10 @@
+1	Santa Anita Mall
+2	Huntington Gas
+3	Pavilions
+4	CVS
+5	Trader Joe's
+6	Taco Bell
+7	Bed, Bath, and Beyond
+8	Ralphs
+9	Toyota
+10	Foothill Gas

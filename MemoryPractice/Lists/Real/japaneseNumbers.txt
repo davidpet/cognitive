@@ -1,0 +1,10 @@
+1	ich
+2	ni
+3	san
+4	shi
+5	go
+6	roku
+7	shichi
+8	hachi
+9	ku
+10	ju

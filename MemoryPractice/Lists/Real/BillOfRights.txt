@@ -1,0 +1,10 @@
+1	freedom of speech
+2	right to bear arms
+3	protection from quartering soldiers
+4	protection from search and seizure
+5	protection from incriminating oneself
+6	right to a speedy trial
+7	right to a trial by jury
+8	protection from excessive bail
+9	protection of unmentioned rights
+10	protection of states' rights

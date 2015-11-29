@@ -1,0 +1,5 @@
+1	Pencil
+2	Sink
+3	Circus
+4	Track
+5	Star

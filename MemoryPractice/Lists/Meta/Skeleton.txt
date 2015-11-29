@@ -1,0 +1,10 @@
+1	Top
+2	Nose
+3	Mouth
+4	Ribs
+5	Liver
+6	Joint
+7	Cap
+8	Fibula
+9	Ball
+10	Sand

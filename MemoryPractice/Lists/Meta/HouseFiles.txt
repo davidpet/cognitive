@@ -1,0 +1,29 @@
+1	Computer
+2	Record Player
+3	Johnny Cash
+4	Couch
+5	TV
+
+6	Stairs
+7	Railing
+8	Bucket
+9	Shelf
+10	Dolly
+
+11	Oven
+12	Stove
+13	Refrigerator
+14	Microwave
+15	Sink
+
+16	Toilet
+17	Counter
+18	Medicine Cabinet
+19	Shower
+20	Bathtub
+
+21	Closet
+22	Bookshelf
+23	Dresser
+24	Bed
+25	Mirror
